@@ -1,8 +1,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: "Bevan, sans-serif";
-  font-weight: normal;
+  font-family: Bevan, sans-serif;
   line-height: 1.5;
   background-color: #dbd6cf;
 }
@@ -30,7 +29,7 @@ h1 {
 }
 
 .cards {
-  margin: 0 .6em .6em;
+  margin: 0 .5em .5em;
   padding: 0 .5em;
   list-style-type: none;
   text-align: center;
